@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66c1ed4d-ae60-4665-b85d-9b8a23f7fa7e" name="Default Changelist" comment="" />
+    <list default="true" id="66c1ed4d-ae60-4665-b85d-9b8a23f7fa7e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1l2KYdF7FJusF9zK7AvOuGXe7jU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,11 +45,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606789798847</updated>
-      <workItem from="1606789800379" duration="4508000" />
+      <workItem from="1606789800379" duration="10508000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="390" key="Github.ShareDialog" timestamp="1606802742172">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="517" y="390" key="Github.ShareDialog/0.0.1280.984@0.0.1280.984" timestamp="1606802742172" />
+    <state x="443" y="197" key="Github.UntrackedFilesDialog" timestamp="1606802755203">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="443" y="197" key="Github.UntrackedFilesDialog/0.0.1280.984@0.0.1280.984" timestamp="1606802755203" />
+    <state x="457" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606968199499">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="457" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.984@0.0.1280.984" timestamp="1606968199499" />
   </component>
 </project>
