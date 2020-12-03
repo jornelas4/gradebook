@@ -4,7 +4,6 @@
     <list default="true" id="66c1ed4d-ae60-4665-b85d-9b8a23f7fa7e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +44,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606789798847</updated>
-      <workItem from="1606789800379" duration="10508000" />
+      <workItem from="1606789800379" duration="11134000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Sort by Name and Percentage">
+      <created>1606968225813</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606968225813</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Sort by Name and Percentage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Sort by Name and Percentage" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="265" y="79" key="CommitChangelistDialog2" timestamp="1606968225158">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="265" y="79" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1606968225158" />
     <state x="517" y="390" key="Github.ShareDialog" timestamp="1606802742172">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -61,6 +76,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="443" y="197" key="Github.UntrackedFilesDialog/0.0.1280.984@0.0.1280.984" timestamp="1606802755203" />
+    <state x="232" y="225" key="Vcs.Push.Dialog.v2" timestamp="1606968232235">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="225" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1606968232235" />
     <state x="457" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606968199499">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
